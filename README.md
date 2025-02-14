@@ -1,16 +1,17 @@
-## Hi there 👋
+## Haaaii ^^
 
-<!--
-**koti-q/koti-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 im **Denis** aka 'kot.'
+- 🎀 backend golang/python dev, part-time a
+- 🐈 meow !! >//<
+- 📚 im currently learning my stack to get better 
+- 💼 open for work (resume in progress)
+- 💬 telegram dm friendly :3 '@koti_q'
 
-Here are some ideas to get you started:
+### my projects
+- [TTOTP](//github.com/koti-q/TOTP-telegram) Telegram TOTP auntheteficator, which is just an mvp for now.
+- 'TOP SECRET' huh????
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Also...
+#### im working on some small things such as:
+- [pinterest parser](//github.com/koti-q/pinterest-parser)
+- 'Telegram OAUTH' currently not open-sourced :(
