@@ -1,7 +1,7 @@
 ## Haaaii ^^
 
 - 🌱 im **Denis** aka 'kot.'
-- 🎀 backend golang/python dev, part-time a
+- 🎀 backend 'golang/python dev', part-time kot
 - 🐈 meow !! >//<
 - 📚 im currently learning my stack to get better 
 - 💼 open for work (resume in progress)
