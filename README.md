@@ -1,14 +1,14 @@
 ## Haaaii ^^
 
 - 🌱 im **Denis** aka `kot.`
-- 🎀 backend `golang/python dev`, part-time kot
+- 🎀 backend `golang/python dev`
 - 🐈 meow !! >//<
 - 📚 im currently learning my stack to get better 
 - 💼 open for work (resume in progress)
-- 💬 telegram dm friendly :3 `@koti_q`
+- 💬 telegram dm friendly `@koti_q`
 
 ### my projects
-- [TTOTP](//github.com/koti-q/TOTP-telegram) Telegram TOTP auntheteficator, which is just an mvp for now.
+- [TTOTP](//github.com/koti-q/TOTP-telegram) Telegram TOTP auntheteficator with an browser extension (in dev) 
 - `TOP SECRET` huh????
 
 ### Also...
